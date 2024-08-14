@@ -25,4 +25,12 @@ You are a data analyst who has been provided with sample data and a mock-up dash
     <img src="https://github.com/Naveen-S6/AtliQ_Hospitality_Analysis_PowerBI/blob/main/Dataset/mock%20up%20dashboard_atliq%20grands.png" width="600">
 </p>
 
+## Data Model
+
+![Screenshot 2024-08-14 184430](https://github.com/user-attachments/assets/3b42d41f-bc74-43c7-bb73-8b8f806b333a)
+
+
+## Overall Analysis View
+
+![Screenshot 2024-08-14 182919](https://github.com/user-attachments/assets/d3f17cf3-fcfd-4d2c-b60e-e846128e2cc4)
 
