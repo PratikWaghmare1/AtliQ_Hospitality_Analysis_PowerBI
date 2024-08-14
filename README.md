@@ -34,3 +34,13 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 
 ![Screenshot 2024-08-14 182919](https://github.com/user-attachments/assets/d3f17cf3-fcfd-4d2c-b60e-e846128e2cc4)
 
+
+## Some Important insights from the Dashboard
+
+- Mumbai generates the highest revenue (669 M) followed by Bangalore, Hyderabad and Delhi
+- AtliQ Exotica performs better compared to all 7 type of properties with 320 Million revenue, rating 3.62, occupancy percentage 57 and cancellation rate as 24.4%.
+- Atliq Blu had the highest Average Rating and was 72.54% higher than Atliq Seasons, which had the lowest Average Rating at 2.29.
+- Delhi tops both in occupancy and rating followed by Hyderabad, Mumbai, Bangalore
+- AtliQ lost around 298 Million in cancellation 
+
+
